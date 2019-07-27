@@ -1,1 +1,1 @@
-# Bidding-app-in-classroom
+# The design patterns that we implemented in class
